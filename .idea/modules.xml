@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Summary.iml" filepath="$PROJECT_DIR$/Summary.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javalibrary/sortAlgorithm.iml" filepath="$PROJECT_DIR$/javalibrary/sortAlgorithm.iml" />
     </modules>
   </component>
 </project>
