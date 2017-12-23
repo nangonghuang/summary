@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Summary.iml" filepath="$PROJECT_DIR$/Summary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidlibrary/androidlibrary.iml" filepath="$PROJECT_DIR$/androidlibrary/androidlibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/javalibrary/sortAlgorithm.iml" filepath="$PROJECT_DIR$/javalibrary/sortAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javalibrary/javalibrary.iml" filepath="$PROJECT_DIR$/javalibrary/javalibrary.iml" />
+      <module fileurl="file://D:\git_proj\summary\javalibrary\sortAlgorithm.iml" filepath="D:\git_proj\summary\javalibrary\sortAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/summary.iml" filepath="$PROJECT_DIR$/summary.iml" />
     </modules>
   </component>
 </project>
